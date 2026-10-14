@@ -124,7 +124,7 @@ The central lesson is that a useful classification model should not be judged by
 
 ## Author
 
-**Timothy Kamau**
+**Preston Mwangi**
 
 Data Analytics | Python | SQL | Business Intelligence | Machine Learning
 
